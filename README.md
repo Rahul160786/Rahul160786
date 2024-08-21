@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rahul Singh
 - 👀 I’m interested in Data Analtytics
-- 🌱 I’m currently learning Power Bi, SQL & Advanced Excel\
+- 🌱 I’m currently learning Power Bi, SQL & Advanced Excel
